@@ -1,4 +1,13 @@
-# <MONTH> <YEAR> Tokyo iOS Meetup
+## Matt Gillingham 
+"This One Weird Trick for Making Interesting UI."
+## Junya Ishihara 
+"Bridge between Objective-C and MIT's Scratch"
+## Quanterreo Cutter
+"Coding the Future."
+
+---
+
+# October 2015 Tokyo iOS Meetup
 
 ---
 
@@ -6,11 +15,19 @@
 
 ---
 
-# ...
+...
 
 ---
 
 # Other Topics?
+
+---
+
+#Announcements
+
+1. Coding Club
+1. Four Slides, Four Minutes
+1. Camera for iOS Meetup
 
 ---
 
@@ -28,4 +45,11 @@
 
 # Other Questions / Comments
 
+---
 
+# Connect
+TokyoIOSMeetup (Twitter & Facebook)
+
+
+# Contribute
+tokyo-ios-meetup (github)
