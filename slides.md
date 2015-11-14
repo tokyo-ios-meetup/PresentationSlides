@@ -1,3 +1,9 @@
+# <speaker one> <presentation name>
+# <speaker two> <presentation name>
+# ...
+
+---
+
 # <MONTH> <YEAR> Tokyo iOS Meetup
 
 ---
@@ -32,4 +38,13 @@
 
 # Other Questions / Comments
 
+---
+
+
+# Connect
+TokyoIOSMeetup (Twitter & Facebook)
+
+
+# Contribute
+tokyo-ios-meetup (github)
 
