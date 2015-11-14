@@ -47,4 +47,12 @@
 
 # Other Questions / Comments
 
+---
+
+# Connect
+TokyoIOSMeetup (Twitter & Facebook)
+
+
+# Contribute
+tokyo-ios-meetup (github)
 
