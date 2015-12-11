@@ -40,6 +40,13 @@
 
 ---
 
+# try! Swift Conference
+
+- Early Bird Tickets Available until December 15th
+- http://www.tryswiftconf.com
+
+---
+
 
 # Connect
 TokyoIOSMeetup (Twitter & Facebook)
