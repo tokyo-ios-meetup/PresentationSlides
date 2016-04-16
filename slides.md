@@ -36,6 +36,12 @@ autoscale: true
 
 ---
 
+# Video Team
+
+- We are looking for two more people to help record the Tokyo iOS Meetup.
+
+---
+
 # Other Topics?
 
 ---
