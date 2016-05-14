@@ -2,15 +2,13 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:45 am: Boris Bugling will speak on "Swift Package Manager"
-11:45 am - 11:55 am: Indrajit Chakrabarty will speak on the Narrate App
-11:55 am - 12:05 pm: Sean Woodhouse will present on Reveal App
-12:05 pm - 12:15 pm: Sean Stephens will present on Perfect, a Swift server-side framework.
+11:15 am - 11:45 am: Toshihiro Suzuki will present on developing for the Apple TV.
+11:45 am - 12:15 pm: Laura Eck will present on "The Not So Rational Programmer"
 12:15 pm - 1:00 pm: Discussion
 
 ---
 
-# March 2016 Tokyo iOS Meetup
+# April 2016 Tokyo iOS Meetup
 
 ---
 
@@ -22,22 +20,29 @@ autoscale: true
 
 ---
 
-# Discussion try! Swift
-
----
-
 # Call for Presentations
 
-- tvOS
 - Four-Slides / Four Minutes
 
 ---
 
-# Other Topics?
+# WWDC
+
+- We are around the time that WWDC tickets are usually announced, so get ready.
 
 ---
 
-# Call for Presentations
+![fit](20160407_JunctionAsia_infosheet_eng.pdf)
+
+---
+
+# Video Team
+
+- We are looking for two more people to help record the Tokyo iOS Meetup.
+
+---
+
+# Other Topics?
 
 ---
 
