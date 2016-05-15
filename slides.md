@@ -2,13 +2,15 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:45 am: Toshihiro Suzuki will present on developing for the Apple TV.
-11:45 am - 12:15 pm: Laura Eck will present on "The Not So Rational Programmer"
+11:15 am - 11:45 am: Rebouh Aymen will present 'Make Your App Content Searchable in Your Device with Core Spotlight'
+
+11:45 am - 12:15 pm: Michael J Petrie will present "What I've learnt from building a Generative Music and Audio Engine"
+
 12:15 pm - 1:00 pm: Discussion
 
 ---
 
-# April 2016 Tokyo iOS Meetup
+# May 2016 Tokyo iOS Meetup
 
 ---
 
@@ -28,17 +30,22 @@ autoscale: true
 
 # WWDC
 
-- We are around the time that WWDC tickets are usually announced, so get ready.
-
----
-
-![fit](20160407_JunctionAsia_infosheet_eng.pdf)
+- Is anyone going this year?
+- Our meetup on July 2nd will focus on WWDC.
 
 ---
 
 # Video Team
 
 - We are looking for two more people to help record the Tokyo iOS Meetup.
+
+---
+
+# AngelHack
+
+- Saturday, May 21, 2016 at 9:00 AM - Sunday, May 22, 2016 at 6:00 PM
+- 〒107-0062 Oryx Minami Aoyama Building 6F Minami Aoyama 2-27-25 Minato-ku, Tokyo, Japan
+- http://angelhack.com/angelhack-tokyo-2016/
 
 ---
 
