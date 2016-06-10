@@ -2,15 +2,17 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:45 am: Rebouh Aymen will present 'Make Your App Content Searchable in Your Device with Core Spotlight'
+11:15 am - 11:40 am: JPMartha will present on "Getting Started The Swift Package Manager".
 
-11:45 am - 12:15 pm: Michael J Petrie will present "What I've learnt from building a Generative Music and Audio Engine"
+11:40 am - 12:05 pm: Derek Lee will present on "Common Challenges and Best Practices for Test-Driven Development on iOS".
 
-12:15 pm - 1:00 pm: Discussion
+12:05 pm - 12:40 pm: Nick Gresham will present on "Everything You Always Wanted to Know about ResearchKit But Were Afraid to Ask".
+
+12:40 pm - 1:00 pm: Discussion.
 
 ---
 
-# May 2016 Tokyo iOS Meetup
+# June 2016 Tokyo iOS Meetup
 
 ---
 
@@ -19,6 +21,15 @@ autoscale: true
 ---
 
 # ...
+
+---
+
+# App Store Subscription Changes
+- https://developer.apple.com/app-store/subscriptions/whats-new/
+
+---
+
+# WWDC Pre-Speculation
 
 ---
 
@@ -41,11 +52,28 @@ autoscale: true
 
 ---
 
-# AngelHack
+# CMD+U Conference
 
-- Saturday, May 21, 2016 at 9:00 AM - Sunday, May 22, 2016 at 6:00 PM
-- 〒107-0062 Oryx Minami Aoyama Building 6F Minami Aoyama 2-27-25 Minato-ku, Tokyo, Japan
-- http://angelhack.com/angelhack-tokyo-2016/
+A conference for Mac OS X, iOS and Swift developers entirely focused on testing. It is held in Barcelona on the 8th of July and it will count with expert speakers on the topic from all around the globe.
+
+- July 8th in Barcelona
+- http://cmduconf.com
+- Get a discount with the promotional code: "TokyoiOS"
+
+---
+
+# Tokyo iOS Meetup Slack Group
+
+- Sign-up at https://tokyo-ios-meetup-slack-signup.herokuapp.com
+
+---
+
+# Localization Team
+
+We want to encourage more non-native speakers to give presentations in English.
+
+- Help in proof-reading slides and transcripts
+- Bilingual supporter who can answer questions during a presentation
 
 ---
 
