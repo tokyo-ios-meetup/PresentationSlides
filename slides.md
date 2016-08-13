@@ -2,13 +2,7 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:40 am: JPMartha will present on "Getting Started The Swift Package Manager".
-
-11:40 am - 12:05 pm: Derek Lee will present on "Common Challenges and Best Practices for Test-Driven Development on iOS".
-
-12:05 pm - 12:40 pm: Nick Gresham will present on "Everything You Always Wanted to Know about ResearchKit But Were Afraid to Ask".
-
-12:40 pm - 1:00 pm: Discussion.
+# WWDC Panel with Anthony Weiss, Haruka Isomer, Himi Sato, Tokihiko Tamiya, Tom Bowden and Yusuke Kita.
 
 ---
 
@@ -24,47 +18,184 @@ autoscale: true
 
 ---
 
-# App Store Subscription Changes
-- https://developer.apple.com/app-store/subscriptions/whats-new/
+# Why did you go?
 
 ---
 
-# WWDC Pre-Speculation
+# Did you attend any pre-WWDC or post-WWDC events?
+
+---
+
+# What did you do while you were there?
+
+---
+
+# What announcement do you think will have the biggest impact?
+
+---
+
+# What announcements were discussed the most among other attendees at the conference?
+
+---
+
+# Was it worth the expense?
+
+---
+
+# Would you recommend other iOS developers attend WWDC?
+
+---
+
+# SiriKit
+- Audio or video calling
+- Messaging
+- Sending or receiving payments
+- Searching photos
+- Booking a ride
+- Managing workouts
+
+---
+
+# Proactive Suggestions
+
+- Enhancements to the Search API introduced in iOS 9
+
+---
+
+# Integration with Messages App
+- Stickers
+- Custom interfaces in messages
+
+---
+
+# User Notifications
+- Local and remote notifications moved in one place
+- Custom UI as an extension
+
+---
+
+# Speech Recognition
+
+---
+
+# Wide Color
+- Many frameworks now support wider color gamuts
+
+---
+
+# True Tone Display
+- Use ambiant light sensors to adjust the display
+
+---
+
+# App Search
+- In-app searching
+- Search continuation
+- Crowdsourcing deep link popularity with differential privacy
+- Visualization of validation results
+
+---
+
+# Widgets
+- Display on the lock screen
+- Support different modes
+
+---
+
+# Apple Pay
+- Works in web sites
+- PassKit supports Apple Pay when UIKit is not available (on the Watch or in Intents)
+
+---
+
+# Security and Privacy
+- Various improvements to the encryption library
+- `NSAllowsArbitraryLoadsInWebContent`
+
+---
+
+# watchOS 3.0
+- Complete redesign with no glances
+
+---
+
+# Swift 3
+
+---
+
+# Playgrounds for iPad
+
+---
+
+# CallKit
+- VoIP inside of an app
+
+---
+
+# Core Data
+- New features for NSPersistentStoreCoordinator
+- Better code generation features
+
+---
+
+# Core Image
+- Support for RAW
+
+---
+
+# CoreMotion
+- Pedometer
+
+---
+
+# Foundation
+- `NSMeasurement` / `NSUnit`
+- `NSDateInterval`
+- `NSLocale`
+
+---
+
+# UIView
+- New interactive animations
+
+---
+
+# HealthKit
+- Support for Clinical Document Architecture
+- More support for workouts
+- Support for wheelchair use
+- Support of weather types
+
+---
+
+# HomeKit
+- Supports camera and doorbell
+
+---
+
+# UIPasteboard
+- Sharing between iOS and MacOS
+
+---
+
+# Refresh Control
+- Available on all scrollviews and subclasses
+
+---
+
+# UITableView/ UICollectionView
+- Prefetching
+
+---
+
+
+# ...
 
 ---
 
 # Call for Presentations
 
-- Four-Slides / Four Minutes
-
----
-
-# WWDC
-
-- Is anyone going this year?
-- Our meetup on July 2nd will focus on WWDC.
-
----
-
-# Video Team
-
-- We are looking for two more people to help record the Tokyo iOS Meetup.
-
----
-
-# CMD+U Conference
-
-A conference for Mac OS X, iOS and Swift developers entirely focused on testing. It is held in Barcelona on the 8th of July and it will count with expert speakers on the topic from all around the globe.
-
-- July 8th in Barcelona
-- http://cmduconf.com
-- Get a discount with the promotional code: "TokyoiOS"
-
----
-
-# Tokyo iOS Meetup Slack Group
-
-- Sign-up at https://tokyo-ios-meetup-slack-signup.herokuapp.com
+- SiriKit, Speech Recognition, etc.  We would like to see demostrations of some of the new Apple technologies.  Code samples, what it looks like, etc.
 
 ---
 
@@ -102,6 +233,7 @@ We want to encourage more non-native speakers to give presentations in English.
 - Twitter: @tokyoiosmeetup
 - Facebook: Tokyo iOS Meetup
 - YouTube: https://www.youtube.com/channel/UCqToSMJJrfsVjeQ9ATyu74Q
+- Slack: https://tokyo-ios-meetup-slack-signup.herokuapp.com
 
 # Contribute
 
