@@ -2,17 +2,17 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:45 am: Dan Fulton will present on "iOS Image Performance".
+11:15 am - 11:30 am: Takamitsu Mizutori will present on the In-App Translation service.
 
-11:45 am - 12:15 pm: Pawel Rusin will present on "Background Execution in iOS".
+11:30 am - 12:00 pm: Sam Clewlow will present on the VIPER architecture. 
 
-12:15 pm - 12:45 pm: Yusuke Saito will present on "How to Make Videos in Swift".
+12:00 pm - 12:20 pm: Bob de Graaf will present on the Blaze framework.
 
-12:45 pm - 1:00 pm: Discussion.
+12:30 pm - 1:00 pm: Discussion.
 
 ---
 
-# August 2016 Tokyo iOS Meetup
+# September 2016 Tokyo iOS Meetup
 
 ---
 
@@ -21,6 +21,21 @@ autoscale: true
 ---
 
 # ...
+
+---
+
+# Sept 7 Apple Event
+
+- iPhone 7
+- Apple Watch Series 2
+- Airpods
+- That pretty much covers it.
+
+---
+
+# MIA
+
+- Laptop refresh?
 
 ---
 
