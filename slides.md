@@ -2,17 +2,19 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:30 am: Takamitsu Mizutori will present on the In-App Translation service.
+11:05 am - 11:15 am: Reuben Smart - "Guerrilla Filmmaker" (http://appstore.com/guerrillafilmmaker)
 
-11:30 am - 12:00 pm: Sam Clewlow will present on the VIPER architecture. 
+11:15 am - 11:45 am: @JPMartha - "Introducing the new features of the Realm"
 
-12:00 pm - 12:20 pm: Bob de Graaf will present on the Blaze framework.
+11:45 am - 12:15 pm: Norbert Lindenberg - “From tofu to quality fonts: Supporting minority scripts in iOS”
 
-12:30 pm - 1:00 pm: Discussion.
+12:15 pm - 12:45 pm: Juan Karmy - "The Swift Summary Talk: Swift 3.0 + Playgrounds Revamped"
+
+12:45 pm - 1:00 pm: Discussion
 
 ---
 
-# September 2016 Tokyo iOS Meetup
+# October 2016 Tokyo iOS Meetup
 
 ---
 
@@ -24,18 +26,14 @@ autoscale: true
 
 ---
 
-# Sept 7 Apple Event
+# October 27 Apple Event
 
-- iPhone 7
-- Apple Watch Series 2
-- Airpods
-- That pretty much covers it.
+- MacBook Pro
+- Apple TV
 
 ---
 
-# MIA
-
-- Laptop refresh?
+# https://swift.org/server-apis/
 
 ---
 
