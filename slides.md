@@ -2,19 +2,19 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:05 am - 11:15 am: Reuben Smart - "Guerrilla Filmmaker" (http://appstore.com/guerrillafilmmaker)
+11:10 am - 11:20 am: Alex Takahashi will present on "Helium"
 
-11:15 am - 11:45 am: @JPMartha - "Introducing the new features of the Realm"
+11:20 am - 11:50 am: Kazunobu Tasaka will present on "Introduction to UIStackView"
 
-11:45 am - 12:15 pm: Norbert Lindenberg - “From tofu to quality fonts: Supporting minority scripts in iOS”
+11:50 am - 12:20 pm: Ben Guild will present on "Maintaining Modular UITableView(s), and Offline API Sync in 2016"
 
-12:15 pm - 12:45 pm: Juan Karmy - "The Swift Summary Talk: Swift 3.0 + Playgrounds Revamped"
+12:20 pm - 12:35 pm: Christopher Sisk will present on "Getting Started with a Development Career"
 
-12:45 pm - 1:00 pm: Discussion
+12:35 pm - 1:00 pm: Discussion
 
 ---
 
-# October 2016 Tokyo iOS Meetup
+# December 2016 Tokyo iOS Meetup
 
 ---
 
@@ -26,18 +26,9 @@ autoscale: true
 
 ---
 
-# October 27 Apple Event
-
-- MacBook Pro
-- Apple TV
-
----
-
-# https://swift.org/server-apis/
-
----
-
 # Call for Presentations
+
+- Four-Slides / Four-Minutes Format
 
 - SiriKit, Speech Recognition, etc.  We would like to see demostrations of some of the new Apple technologies.  Code samples, what it looks like, etc.
 
@@ -57,6 +48,13 @@ We want to encourage more non-native speakers to give presentations in English.
 - We are looking for one more person to help record the meetup.
 
 ---
+![inline 100%](tryswift-logo.png)
+
+- March 2nd, 3rd (Hackathon on the 4th)
+- https://www.tryswift.co/tokyo/en
+- Looking for sponsors
+
+---
 
 # Other Topics?
 
@@ -70,7 +68,9 @@ We want to encourage more non-native speakers to give presentations in English.
 
 ---
 
-# Thanks to Voyage Group
+![inline 100%](voyage-group-logo.png)
+
+# Thanks!
 
 ---
 
