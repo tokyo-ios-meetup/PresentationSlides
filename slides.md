@@ -2,19 +2,17 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:10 am - 11:15 am: Introduction
+11:00 am - 11:15 am: Introduction 
 
-11:15 am - 11:45 am: Derek Lee will present on "Writing Clean Code in Swift".
+11:15 am - 11:45 am: Ahmed Bakir will present "How to Build an Internet Thing".
 
-11:45 am - 12:15 pm: Kaz Yoshikawa will present on "Tips and Tricks of ScrollView for vector graphics and Metal".
+11:45 am - 12:15 pm: Natasha Murashev (aka. Natasha the Robot) will present "Build Features, Not Apps".
 
-12:15 pm - 12:45 pm: Muneaki Nishimura will present on “Finding Vulnerabilities in Firefox for iOS”.
-
-12:45 pm - 1:00 pm: Discussion
+12:15 pm - 1:00 pm: Discussion
 
 ---
 
-# January 2017 Tokyo iOS Meetup
+# February 2017 Tokyo iOS Meetup
 
 ---
 
@@ -30,6 +28,13 @@ autoscale: true
 
 ---
 
+# San José
+
+---
+
+![fit](planet-of-the-apps.png)
+
+---
 # Call for Presentations
 
 - Four-Slides / Four-Minutes Format
@@ -56,7 +61,7 @@ We want to encourage more non-native speakers to give presentations in English.
 
 - March 2nd, 3rd (Hackathon on the 4th)
 - https://www.tryswift.co/tokyo/en
-- Looking for sponsors
+- Looking for volunteers
 - $50 off Coupon: TRYTOKYOIOS
 
 ---
