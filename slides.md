@@ -2,19 +2,19 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:10 am - 11:20 am: Alex Takahashi will present on "Helium"
+11:10 am - 11:15 am: Introduction
 
-11:20 am - 11:50 am: Kazunobu Tasaka will present on "Introduction to UIStackView"
+11:15 am - 11:45 am: Derek Lee will present on "Writing Clean Code in Swift".
 
-11:50 am - 12:20 pm: Ben Guild will present on "Maintaining Modular UITableView(s), and Offline API Sync in 2016"
+11:45 am - 12:15 pm: Kaz Yoshikawa will present on "Tips and Tricks of ScrollView for vector graphics and Metal".
 
-12:20 pm - 12:35 pm: Christopher Sisk will present on "Getting Started with a Development Career"
+12:15 pm - 12:45 pm: Muneaki Nishimura will present on “Finding Vulnerabilities in Firefox for iOS”.
 
-12:35 pm - 1:00 pm: Discussion
+12:45 pm - 1:00 pm: Discussion
 
 ---
 
-# December 2016 Tokyo iOS Meetup
+# January 2017 Tokyo iOS Meetup
 
 ---
 
@@ -23,6 +23,10 @@ autoscale: true
 ---
 
 # ...
+
+---
+
+# Discussion
 
 ---
 
@@ -53,6 +57,7 @@ We want to encourage more non-native speakers to give presentations in English.
 - March 2nd, 3rd (Hackathon on the 4th)
 - https://www.tryswift.co/tokyo/en
 - Looking for sponsors
+- $50 off Coupon: TRYTOKYOIOS
 
 ---
 
