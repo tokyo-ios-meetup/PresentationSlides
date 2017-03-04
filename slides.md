@@ -4,15 +4,17 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction 
 
-11:15 am - 11:45 am: Ahmed Bakir will present "How to Build an Internet Thing".
+11:15 am - 11:40 am: Philip Kluz will present "Separating Style from Structure in iOS Applications."
 
-11:45 am - 12:15 pm: Natasha Murashev (aka. Natasha the Robot) will present "Build Features, Not Apps".
+11:40 am - 12:05 pm: John Bott will present "When and Why to Use Plain-Old Swift Objects."
 
-12:15 pm - 1:00 pm: Discussion
+12:05 pm - 12:15 pm: Alvin Varghese will talk about try! Swift India?.
+
+12:15 pm - 1:00 pm: Discussion and Announcements.
 
 ---
 
-# February 2017 Tokyo iOS Meetup
+# March 2017 Tokyo iOS Meetup
 
 ---
 
@@ -25,14 +27,6 @@ autoscale: true
 ---
 
 # Discussion
-
----
-
-# San José
-
----
-
-![fit](planet-of-the-apps.png)
 
 ---
 # Call for Presentations
@@ -57,12 +51,11 @@ We want to encourage more non-native speakers to give presentations in English.
 - We are looking for one more person to help record the meetup.
 
 ---
-![inline 100%](tryswift-logo.png)
 
-- March 2nd, 3rd (Hackathon on the 4th)
-- https://www.tryswift.co/tokyo/en
-- Looking for volunteers
-- $50 off Coupon: TRYTOKYOIOS
+# Junction Tokyo Hackathon
+
+- 28-30th April 2017
+- http://tokyo.hackjunction.com
 
 ---
 
