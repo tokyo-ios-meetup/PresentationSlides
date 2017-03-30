@@ -2,19 +2,13 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:00 am - 11:15 am: Introduction 
+11:15 am - 11:45 am: Ben Watanabe will present on "Being Proactive with React Native: some code, some crossed platforms, and some LongShorts"
 
-11:15 am - 11:40 am: Philip Kluz will present "Separating Style from Structure in iOS Applications."
-
-11:40 am - 12:05 pm: John Bott will present "When and Why to Use Plain-Old Swift Objects."
-
-12:05 pm - 12:15 pm: Alvin Varghese will talk about try! Swift India?.
-
-12:15 pm - 1:00 pm: Discussion and Announcements.
+11:45 am - 1:00 pm: Discussion
 
 ---
 
-# March 2017 Tokyo iOS Meetup
+# April 2017 Tokyo iOS Meetup
 
 ---
 
@@ -34,15 +28,6 @@ autoscale: true
 - Four-Slides / Four-Minutes Format
 
 - SiriKit, Speech Recognition, etc.  We would like to see demostrations of some of the new Apple technologies.  Code samples, what it looks like, etc.
-
----
-
-# Localization Team
-
-We want to encourage more non-native speakers to give presentations in English.
-
-- Help in proof-reading slides and transcripts
-- Bilingual supporter who can answer questions during a presentation
 
 ---
 
