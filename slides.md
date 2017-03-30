@@ -52,10 +52,7 @@ We want to encourage more non-native speakers to give presentations in English.
 
 ---
 
-# Junction Tokyo Hackathon
-
-- 28-30th April 2017
-- http://tokyo.hackjunction.com
+![title](Junction-Tokyo-2017.jpg)
 
 ---
 
