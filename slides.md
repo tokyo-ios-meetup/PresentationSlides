@@ -2,9 +2,11 @@ autoscale: true
 
 ![inline](logo.png)
 
-11:15 am - 11:45 am: Ben Watanabe will present on "Being Proactive with React Native: some code, some crossed platforms, and some LongShorts"
+11:15 am - 11:45 am: “Standing the Test of Time” - The Date Provider Pattern, Derek Lee
 
-11:45 am - 1:00 pm: Discussion
+11:50 am - 12:20 pm: "Being Proactive with React Native: some code, some crossed platforms, and some LongShorts”, Ben Watanabe
+
+12:25 pm - 1:00 pm: Discussion
 
 ---
 
@@ -20,9 +22,20 @@ autoscale: true
 
 ---
 
+# Topics
+
+* Tokyo iOS Meetup: March Outdoor Edition Impressions
+* try! Swift Impressions
+* New iPad
+* App Store Review Responses
+* WWDC 2017 Registration
+
+---
+
 # Discussion
 
 ---
+
 # Call for Presentations
 
 - Four-Slides / Four-Minutes Format
