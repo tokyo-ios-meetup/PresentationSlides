@@ -49,6 +49,17 @@ Consider joining our WWDC panel at the iOS Meetup on June 10th.
 
 ---
 
+# Pre-WWDC Gathering
+
+19:00 - 22:00 on Tuesday, May 30, 2017
+
+CyberAgent Creative Lounge
+
+You can attend, even if you are not going to WWDC
+
+
+---
+
 # Video Team
 
 - We are looking for one more person to help record the meetup.
