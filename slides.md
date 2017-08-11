@@ -4,16 +4,18 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction
 
-11:15 am - 11:45 am: Andrew Coad will present "iOS Bluetooth LE design using a state machine approach"
+11:15 am - 11:45 am: Andrew Coad will present "Fast audio waveform rendering using the Accelerate Framework".
 
-11:45 am - 12:15 pm: Matt Gillingham will present "Bridging React Native and iOS"
+11:45 am - 12:15 pm: Satoshi Hachiya will present "Using Danger in iOS Development".
 
-12:15 - 1:00pm: Discussion
+12:15 pm - 12:45 pm: Raj will present "Mobile Apps Development with C++"
+
+12:45 - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## July 2017
+## August 2017
 
 ---
 
@@ -25,13 +27,7 @@ autoscale: true
 
 - Four-Slides / Four-Minutes Format
 
-- SiriKit, Speech Recognition, etc. We would like to see demonstrations of some of the new Apple technologies. Code samples, what it looks like, etc.
-
----
-
-# Video Team
-
-- We are looking for one more person to help record the meetup.
+- ARKit, SiriKit, Speech Recognition, etc. We would like to see demonstrations of some of the new Apple technologies. Code samples, what it looks like, etc.
 
 ---
 
