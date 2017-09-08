@@ -4,18 +4,16 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction
 
-11:15 am - 11:45 am: Andrew Coad will present "Fast audio waveform rendering using the Accelerate Framework".
+11:15 am - 11:45 am: Bektur Ryskeldiev will present "Interactions in Mixed Reality or what is mixed reality and how can we make applications for it?".
 
-11:45 am - 12:15 pm: Satoshi Hachiya will present "Using Danger in iOS Development".
+11:45 am - 12:15 pm: Paul McMahon will present "All Code is Debt".
 
-12:15 pm - 12:45 pm: Raj will present "Mobile Apps Development with C++"
-
-12:45 - 1:00pm: Discussion
+12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## August 2017
+## September 2017
 
 ---
 
@@ -23,11 +21,42 @@ autoscale: true
 
 ---
 
+# New Location
+
+From next month, we will be start meeting in a new location:
+
+- __Cyber Agent Creative Lounge 渋谷プライムプラザ (4F)
+19, Maruyamacho, 1, Shibuya, Tokyo, JP__
+
+- About one minute walk from our current location
+- The doors may not always be open
+
+![](location.png)
+![](creative-lounge.jpeg)
+
+---
+
+# Meeting Time
+
+- Do you have an opinion about the time of the meetup?
+- Would it be better / worse to meet during a weekday evening?
+
+## Let Derek or Matt know your preference.
+
+---
+
+# Video Team
+
+- We are looking for one more member to record the meetup.
+
+
+---
+
 # Call for Presentations
 
 - Four-Slides / Four-Minutes Format
 
-- ARKit, SiriKit, Speech Recognition, etc. We would like to see demonstrations of some of the new Apple technologies. Code samples, what it looks like, etc.
+- ARKit, SiriKit, CoreML, etc. We would like to see demonstrations of some of the new Apple technologies. Code samples, what it looks like, etc.
 
 ---
 
