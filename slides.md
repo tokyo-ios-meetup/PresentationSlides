@@ -23,6 +23,13 @@ autoscale: true
 
 ---
 
+# iOS 11
+
+- Adding support to your apps?
+- Beta experiences?
+
+---
+
 # Call for Presentations
 
 - Four-Slides / Four-Minutes Format
