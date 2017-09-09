@@ -21,18 +21,20 @@ autoscale: true
 
 ---
 
-# New Location
+# Apple Event September 12th
 
-From next month, we will be start meeting in a new location:
+![fit](AppleSeptEvent.png)
 
-- __Cyber Agent Creative Lounge 渋谷プライムプラザ (4F)
-19, Maruyamacho, 1, Shibuya, Tokyo, JP__
+---
 
+##[fit]Cyber Agent Creative Lounge 渋谷プライムプラザ (4F)
+#19, Maruyamacho, 1, Shibuya, Tokyo, JP
+
+- New location starting next month!
 - About one minute walk from our current location
-- The doors may not always be open
+- Please arrive on time as the doors may not always be open
 
-![](location.png)
-![](creative-lounge.jpeg)
+![inline 90%](location.png)![inline 60%](creative-lounge.jpeg)
 
 ---
 
