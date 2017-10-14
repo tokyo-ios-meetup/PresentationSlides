@@ -4,16 +4,16 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction
 
-11:15 am - 11:45 am: Bektur Ryskeldiev will present "Interactions in Mixed Reality or what is mixed reality and how can we make applications for it?".
+11:15 am - 11:45 am: Peter Jacobs will present "Using Speech Kit for Voice Recognition."
 
-11:45 am - 12:15 pm: Paul McMahon will present "All Code is Debt".
+11:45 am - 12:15 pm: John Estropia will present on "My Journey Taming Core Data: An Intro to the CoreStore Library."
 
 12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## September 2017
+## October 2017
 
 ---
 
@@ -21,34 +21,36 @@ autoscale: true
 
 ---
 
-# New Location
-
-From next month, we will be start meeting in a new location:
-
-- __Cyber Agent Creative Lounge 渋谷プライムプラザ (4F)
-19, Maruyamacho, 1, Shibuya, Tokyo, JP__
-
-- About one minute walk from our current location
-- The doors may not always be open
-
-![](location.png)
-![](creative-lounge.jpeg)
+# ...
 
 ---
 
-# Meeting Time
+# Dictionary and Set Improvements in Swift 4.0
 
-- Do you have an opinion about the time of the meetup?
-- Would it be better / worse to meet during a weekday evening?
+```swift
+groceriesByDepartment[.bakery] == [🥐, 🍞]
 
-## Let Derek or Matt know your preference.
+let departmentCounts = groceriesByDepartment.mapValues { items in items.count }
+departmentCounts[.bakery] == 2
+```
+
+https://swift.org/blog/dictionary-and-set-improvements
 
 ---
 
-# Video Team
+# Felix Krause Phishing Popup Blog Posts
 
-- We are looking for one more member to record the meetup.
+![inline](1507631710330.png)
 
+https://krausefx.com/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking
+
+---
+
+# Swift drops in the TIOBE index
+
+> Until recently it was quite common to program Android apps in Java and iOS apps in Swift/Objective-C. This is quite cumbersome because you have to maintain two code bases that are doing almost the same. So frameworks for mobile hybrid apps were developed and now that they have grown mature these are becoming very popular. Market leaders in this area are Microsoft’s Xamarin (C#), Apache’s Cordova (JavaScript) and Ionic (JavaScript). The consequences of all of this are that languages such as C# and JavaScript are gaining popularity at the cost of languages such as Java and Swift.
+
+-- https://tiobe.com/tiobe-index/
 
 ---
 
@@ -72,11 +74,7 @@ From next month, we will be start meeting in a new location:
 
 ---
 
-![inline 100%](voyage-group-logo.png)
-
----
-
-# Other Questions / Comments
+![inline 100%](CyberAgent_logo.png)
 
 ---
 
