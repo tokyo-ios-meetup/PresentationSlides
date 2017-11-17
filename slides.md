@@ -4,16 +4,16 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction
 
-11:15 am - 11:45 am: Peter Jacobs will present "Using Speech Kit for Voice Recognition."
+11:15 am - 11:45 am: Matt Gillingham will present "Manual Layout Revisited."
 
-11:45 am - 12:15 pm: John Estropia will present on "My Journey Taming Core Data: An Intro to the CoreStore Library."
+11:45 am - 12:15 pm: Derek Lee will present "Decoupling, Decluttering and Demystifying your Swift Tests." (LIVE CODING! =D)
 
 12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## October 2017
+## November 2017
 
 ---
 
@@ -25,32 +25,22 @@ autoscale: true
 
 ---
 
-# Dictionary and Set Improvements in Swift 4.0
+# iPhone X
 
-```swift
-groceriesByDepartment[.bakery] == [🥐, 🍞]
+---
+# Kotlin Native
 
-let departmentCounts = groceriesByDepartment.mapValues { items in items.count }
-departmentCounts[.bakery] == 2
-```
+- https://blog.jetbrains.com/kotlin/2017/11/kotlinnative-v0-4-released-objective-c-interop-webassembly-and-more/
 
-https://swift.org/blog/dictionary-and-set-improvements
+- Kotlin, a first-class language for Android development, is developing Objective C interop.
 
 ---
 
-# Felix Krause Phishing Popup Blog Posts
-
-![inline](1507631710330.png)
-
-https://krausefx.com/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking
+# Introductory Pricing Added to In-App Subscriptions
 
 ---
 
-# Swift drops in the TIOBE index
-
-> Until recently it was quite common to program Android apps in Java and iOS apps in Swift/Objective-C. This is quite cumbersome because you have to maintain two code bases that are doing almost the same. So frameworks for mobile hybrid apps were developed and now that they have grown mature these are becoming very popular. Market leaders in this area are Microsoft’s Xamarin (C#), Apache’s Cordova (JavaScript) and Ionic (JavaScript). The consequences of all of this are that languages such as C# and JavaScript are gaining popularity at the cost of languages such as Java and Swift.
-
--- https://tiobe.com/tiobe-index/
+# Try typing "1 + 2 + 3" on the iOS Calculator
 
 ---
 
