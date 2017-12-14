@@ -4,16 +4,16 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction
 
-11:15 am - 11:45 am: Matt Gillingham will present "Manual Layout Revisited."
+11:15 am - 11:45 am: Shinichi Goto will present "Core ML <- iOS Engineer."
 
-11:45 am - 12:15 pm: Derek Lee will present "Decoupling, Decluttering and Demystifying your Swift Tests." (LIVE CODING! =D)
+11:45 am - 12:15 pm: Dui Ardal will present "Inclusive Design: Interfaces for Visually Impaired People."
 
 12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## November 2017
+## December 2017
 
 ---
 
@@ -25,7 +25,12 @@ autoscale: true
 
 ---
 
-# iPhone X
+# Apple's Bad Software Month
+
+- High Sierra allows root access with a blank password
+- iOS crash on December 2nd
+- HomeKit allows remote access to devices (smart locks, etc)
+- Typing "1 + 2 + 3" on the iOS Calculator
 
 ---
 # Kotlin Native
@@ -36,19 +41,30 @@ autoscale: true
 
 ---
 
-# Introductory Pricing Added to In-App Subscriptions
+# App Store Changes
+
+- Introductory Pricing Added to In-App Subscriptions
+- Pre-Ordering Apps
 
 ---
 
-# Try typing "1 + 2 + 3" on the iOS Calculator
+# App Store Ban on Templated Apps
+
+- https://techcrunch.com/2017/12/08/apples-widened-ban-on-templated-apps-is-wiping-small-businesses-from-the-app-store/
 
 ---
 
-# Call for Presentations
+# Upcoming
 
-- Four-Slides / Four-Minutes Format
+January 13th
 
-- ARKit, SiriKit, CoreML, etc. We would like to see demonstrations of some of the new Apple technologies. Code samples, what it looks like, etc.
+- Currently one presentation
+- No video recording
+
+February:
+
+- No presentations
+- No video recording
 
 ---
 
