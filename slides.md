@@ -3,17 +3,15 @@ autoscale: true
 ![inline](logo.png)
 
 11:00 am - 11:15 am: Introduction
-
-11:15 am - 11:45 am: Shinichi Goto will present "Core ML <- iOS Engineer."
-
-11:45 am - 12:15 pm: Dui Ardal will present "Inclusive Design: Interfaces for Visually Impaired People."
-
-12:15 pm - 1:00pm: Discussion
+11:15 am - 11:45 am: Yasuhiro Inami, "Algebraic Data Type in Swift".
+11:45 am - 12:15 pm: Dan Fulton, "Clean Architecture with Value Types".
+12:15 pm - 12:45 pm: Pavel Vlasov, "How to Improve Reply to Reviews & Customer Support for Mobile Apps".
+12:45 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## December 2017
+## January 2018
 
 ---
 
@@ -25,50 +23,34 @@ autoscale: true
 
 ---
 
-# Apple's Bad Software Month
-
-- High Sierra allows root access with a blank password
-- iOS crash on December 2nd
-- HomeKit allows remote access to devices (smart locks, etc)
-- Typing "1 + 2 + 3" on the iOS Calculator
-
----
-# Kotlin Native
-
-- https://blog.jetbrains.com/kotlin/2017/11/kotlinnative-v0-4-released-objective-c-interop-webassembly-and-more/
-
-- Kotlin, a first-class language for Android development, is developing Objective C interop.
+# Other Topics?
 
 ---
 
-# App Store Changes
+# try Swift! Tokyo 2018
 
-- Introductory Pricing Added to In-App Subscriptions
-- Pre-Ordering Apps
+- March 1st and 2nd
+- Workshops on March 3rd
 
----
+https://www.tryswift.co/events/2018/tokyo/en
 
-# App Store Ban on Templated Apps
-
-- https://techcrunch.com/2017/12/08/apples-widened-ban-on-templated-apps-is-wiping-small-businesses-from-the-app-store/
+![](RikoCircle1000.png)
 
 ---
 
 # Upcoming
 
-January 13th
+February 10th
 
-- Currently one presentation
-- No video recording
+- Presentations (1)
 
-February:
+March 4th
 
-- No presentations
-- No video recording
+- Post try! Swift meetup, we prioritize people from out of town
 
----
+April 14th
 
-# Other Topics?
+- Presentations (0)
 
 ---
 
