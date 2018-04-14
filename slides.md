@@ -23,6 +23,11 @@ autoscale: true
 
 ---
 
+# Reminder To Presenters:
+## Please upload a link to your slides as a comment for this month's meetup. Thank you!
+
+---
+
 # Discussion
 
 ---
