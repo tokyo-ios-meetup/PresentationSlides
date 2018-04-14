@@ -28,22 +28,28 @@ autoscale: true
 ---
 
 # IBM Watson services for Core ML
-- https://developer.apple.com/ibm/
+#### https://developer.apple.com/ibm/
+![inline](Watson.png)
 
 ---
 
 # Swift for TensorFlow
-- https://www.tensorflow.org/community/swift
+#### https://www.tensorflow.org/community/swift
+![inline](TensorFlow Swift.png)
+
+^ TensorFlow - An open source machine learning framework for everyone
 
 ---
 
 # App Store Shrank for the First Time
-- https://techcrunch.com/2018/04/04/app-store-shrank-for-first-time-in-2017-thanks-to-crackdowns-on-spam-clones-and-more/
+#### https://techcrunch.com/2018/04/04/app-store-shrank-for-first-time-in-2017-thanks-to-crackdowns-on-spam-clones-and-more/
+![inline](AppStore Size.png)
 
 ---
 
-# Apple is Rumor to Move Macs to Their Own Chips
-- https://www.bloomberg.com/news/articles/2018-04-02/apple-is-said-to-plan-move-from-intel-to-own-mac-chips-from-2020
+# Apple is Rumored to Move Macs to Their Own Chips
+#### https://www.bloomberg.com/news/articles/2018-04-02/apple-is-said-to-plan-move-from-intel-to-own-mac-chips-from-2020
+![inline](Apple Makes Chips.png)
 
 ---
 
