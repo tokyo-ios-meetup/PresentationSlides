@@ -3,15 +3,14 @@ autoscale: true
 ![inline](logo.png)
 
 11:00 am - 11:15 am: Introduction
-11:15 am - 11:45 am: Andrew Coad - "Unsafe Swift"
-11:45 am - 12:15 pm: Ahmed Bakir - "Building your own HomeKit devices using Raspberry Pi"
-12:15 pm - 12:45 pm: David Fox - "Exploring Linguistics: Understanding & Manipulating Language On iOS"
-12:45 pm - 1:00pm: Discussion
+11:15 am - 11:45 am: John Estropia - "Creating Keyboard Extensions on iOS"
+11:45 am - 12:15 pm: Yoichi Tagaya - "More about Crashlytics and less about GDPR ;)"
+12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## April 2018
+## May 2018
 
 ---
 
@@ -27,23 +26,23 @@ autoscale: true
 
 ---
 
-# IBM Watson services for Core ML
-- https://developer.apple.com/ibm/
+# Flutter
+
+- https://flutter.io/
+- Cross-platform UI framework created by Google.
 
 ---
 
-# Swift for TensorFlow
-- https://www.tensorflow.org/community/swift
+# Swipe to Delete
+
+- https://marco.org/2017/02/20/overcast3
+
+![Fit](v3-cellactions-old.jpg)
+![Fit](v3-cellactions-new.jpg)
 
 ---
 
-# App Store Shrank for the First Time
-- https://techcrunch.com/2018/04/04/app-store-shrank-for-first-time-in-2017-thanks-to-crackdowns-on-spam-clones-and-more/
-
----
-
-# Apple is Rumor to Move Macs to Their Own Chips
-- https://www.bloomberg.com/news/articles/2018-04-02/apple-is-said-to-plan-move-from-intel-to-own-mac-chips-from-2020
+![Inline autoplay loop](swipe-to-delete-interaction.mov)
 
 ---
 
@@ -53,16 +52,17 @@ autoscale: true
 
 # Upcoming
 
-May 12th
-
-- Presentations (3)
-
-June 9th
+June 16th
 
 - WWDC Theme
 
-July
+July 21st
+
 - Presentations (2)
+
+August
+
+- Presentations (0)
 
 ---
 
