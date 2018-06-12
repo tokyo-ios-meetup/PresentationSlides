@@ -75,6 +75,8 @@ autoscale: true
 # Privacy and Security
 ## Analysis
 
+![title](Screen%20Shot%202018-06-12%20at%2011.17.50.png)
+
 - Apple is clearly positioning themselves as the platform for privacy and security to differentiate themselves from other tech companies (e.g. Google and Facebook)
 
 ---
@@ -155,6 +157,10 @@ autoscale: true
 
 ---
 
+![title](Screen%20Shot%202018-06-12%20at%2012.10.26.png)
+
+---
+
 # Tooling Improvements
 ## Swift Playgrounds
 
@@ -232,6 +238,10 @@ autoscale: true
 - Tokenize a sentence
 - Determine a sentence's language parts
 - Named Object Recognition
+
+---
+
+![title](Screen%20Shot%202018-06-12%20at%2012.19.10.png)
 
 ---
 
