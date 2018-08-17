@@ -3,15 +3,15 @@ autoscale: true
 ![inline](logo.png)
 
 11:00 am - 11:15 am: Introduction
-11:15 am - 11:45 am: Toto Tvalavadze - "Bluetooth LE, iOS and You"
-11:45 am - 12:15 pm: Yoshikuni Kato - "App Architecture by Manual Dependency Injection"
-12:15 pm - 12:45 pm: Daiki Matsudate - "Make Our Swift Better"
+11:15 am - 11:45 am: Yousef Hamza - "Creating and Distributing an iOS Binary Framework"
+11:45 am - 12:15 pm: Josh Kaplan - "A Look at Command Line Swift"
+12:15 pm - 12:45 pm: Norbert Names - "Everything You Wanted to Know about Clean Architecture"
 12:45 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## July 2018
+## August 2018
 
 ---
 
@@ -30,13 +30,21 @@ autoscale: true
 
 # Upcoming
 
-August
-
-- Presentations (3)
-
 September
 
-- Presentations (1)
+- Presentations (2)
+
+October
+
+- Presentations (0)
+
+---
+
+# Apple is Promoting Subscription Model
+
+Apple invited 30+ app devs to an April 2017 meeting to recommend they move from selling apps at a low upfront cost to a subscription-based SaaS model
+
+- https://www.businessinsider.com/apple-secret-meeting-developers-new-york-subscriptions-app-store-2018-7
 
 ---
 
@@ -45,13 +53,6 @@ September
 ---
 
 # Is anyone looking for work?
-
----
-
-#  Instabug
-
-- State of Mobile App Quality 2018: What We Learned From Analyzing 100 Million Bugs
-- https://instabug.com/state-of-mobile-app-quality-2018
 
 ---
 
