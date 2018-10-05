@@ -3,15 +3,14 @@ autoscale: true
 ![inline](logo.png)
 
 11:00 am - 11:15 am: Introduction
-11:15 am - 11:45 am: Alexandre Fabri - "Authen Digital: A Second Factor Authentication Service"
-11:45 am - 12:15 pm: Ben Guild - "Cautions With Sliding and Swiping, Pull-To-Dismiss"
-12:15 pm - 12:45 pm: Kei Fujikawa - "Basic 3D Mathematics for ARKit"
-12:45 pm - 1:00pm: Discussion
+11:15 am - 11:45 am: Mizuko Aoyagi - "My First iOS App"
+11:45 am - 12:15 pm: Daisuke Nagata - "Using iOS 12's Portrait Matte"
+12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## September 2018
+## October 2018
 
 ---
 
@@ -23,10 +22,29 @@ autoscale: true
 
 ---
 
-![](apple-special-event-september-2018-live-stream-blog-livestream-where-watch-iphone-xs.jpg)
+![](macOS-10.14-Mojave-Night-hero-hero.jpg)
+
+^ macOS Mojave Impressions
 
 ---
 
+![](Apple Watch Series 4.png)
+
+^ Apple Watch Series 4 Impressions
+
+---
+
+# Other Topics...
+
+- iOS 12 Adoption Rate
+- iOS 12.1 includes 70 new emoji
+- iPhone XS Charging & LTE Problems
+
+^ https://mixpanel.com/trends/#report/ios_12/from_date:-20,report_unit:day,to_date:0
+^ As of Oct 5 - iOS 12: 47%; iOS 11: 45%
+^ Anything else important in 12.1?
+
+---
 
 # Other Topics?
 
@@ -34,11 +52,11 @@ autoscale: true
 
 # Upcoming
 
-October
+November 17, 2018
 
-- Presentations (3)
+- Presentations (0)
 
-November
+December 8, 2018
 
 - Presentations (0)
 
