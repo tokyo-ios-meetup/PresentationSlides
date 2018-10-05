@@ -5,7 +5,7 @@ autoscale: true
 11:00 am - 11:15 am: Introduction
 11:15 am - 11:45 am: Yousef Hamza - "Creating and Distributing an iOS Binary Framework"
 11:45 am - 12:15 pm: Josh Kaplan - "A Look at Command Line Swift"
-12:15 pm - 12:45 pm: Norbert Names - "Everything You Wanted to Know about Clean Architecture"
+12:15 pm - 12:45 pm: Norbert Nemes - "Everything You Wanted to Know about Clean Architecture"
 12:45 pm - 1:00pm: Discussion
 
 ---
