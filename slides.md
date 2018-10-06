@@ -34,7 +34,7 @@ autoscale: true
 
 ---
 
-# Other Topics...
+# In Other News...
 
 - iOS 12 Adoption Rate
 - iOS 12.1 includes 70 new emoji
@@ -54,7 +54,7 @@ autoscale: true
 
 November 17, 2018
 
-- Presentations (0)
+- Presentations (2)
 
 December 8, 2018
 
