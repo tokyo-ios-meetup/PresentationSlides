@@ -3,15 +3,14 @@ autoscale: true
 ![inline](logo.png)
 
 11:00 am - 11:15 am: Introduction
-11:15 am - 11:45 am: Mustafa Baalbaki - "How to Build iOS Apps Using Less Lines of Code"
-11:45 am - 12:15 pm: Florian Ludot - "Solving “Where’s Wally?” with Turi Create"
-12:15 pm - 12:45 pm: Tim Oliver - “A Suite of Delicious iOS Eye Candy”
-12:45 pm - 1:00pm: Discussion
+11:15 am - 11:45 am: Arek Turlewicz - "Cloud Swift with AWS Lambda"
+11:45 am - 12:15 pm: Hikarus Guijarro-Fayard - "iOS Demo (Dice Game)"
+12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## November 2018
+## December 2018
 
 ---
 
@@ -29,13 +28,29 @@ autoscale: true
 
 # Upcoming
 
-December 8, 2018
+January 19, 2019
 
 - Presentations (3)
 
-January 19, 2018
+February 16, 2019
 
-- Presentations (0)
+- Presentations (1)
+
+---
+
+![inline 100%](logo_riko_labs.png)
+
+- March 21st - 22nd, with workshops on the 23rd
+- https://www.tryswift.co/events/2019/tokyo/en/
+- Early Bird tickets available now
+
+---
+
+# CyberAgent is moving!
+
+- After the February meetup, CyberAgent will move to a new building.
+- We are hoping to move with them to their new building, which is still in Shibuya.
+- We do not yet know many details, please stay tuned.
 
 ---
 
