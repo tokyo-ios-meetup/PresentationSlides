@@ -3,14 +3,14 @@ autoscale: true
 ![inline](logo.png)
 
 11:00 am - 11:15 am: Introduction
-11:15 am - 11:45 am: Arek Turlewicz - "Cloud Swift with AWS Lambda"
-11:45 am - 12:15 pm: Hikarus Guijarro-Fayard - "iOS Demo (Dice Game)"
+11:15 am - 11:45 am: Leonard Choo - "iOS School BusTime"
+11:45 am - 12:15 pm: Fumiya Sakai - "Hint of a little ingenuity about UI"
 12:15 pm - 1:00pm: Discussion
 
 ---
 
 # Tokyo iOS Meetup
-## December 2018
+## January 2019
 
 ---
 
@@ -28,13 +28,13 @@ autoscale: true
 
 # Upcoming
 
-January 19, 2019
-
-- Presentations (3)
-
 February 16, 2019
 
-- Presentations (1)
+- Presentations (2)
+
+March 24, 2019
+
+- Post-try! Swift meetup
 
 ---
 
@@ -42,15 +42,15 @@ February 16, 2019
 
 - March 21st - 22nd, with workshops on the 23rd
 - https://www.tryswift.co/events/2019/tokyo/en/
-- Early Bird tickets available now
+- Use the coupon code: TRYIOSMEETUP for $50 (USD) Discount
 
 ---
 
 # CyberAgent is moving!
 
 - After the February meetup, CyberAgent will move to a new building.
-- We are hoping to move with them to their new building, which is still in Shibuya.
-- We do not yet know many details, please stay tuned.
+- We are hoping to move with them to their new building, which is still in Shibuya but it will not be possible in March.
+- We will (tentatively) have our March 24th meetup at Cookpad in Ebisu for one month.
 
 ---
 
