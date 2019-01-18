@@ -4,8 +4,9 @@ autoscale: true
 
 11:00 am - 11:15 am: Introduction
 11:15 am - 11:45 am: Leonard Choo - "iOS School BusTime"
-11:45 am - 12:15 pm: Fumiya Sakai - "Hint of a little ingenuity about UI"
-12:15 pm - 1:00pm: Discussion
+11:45 am - 12:15 pm: Mizuko Aoyagi - "Make over my first App"
+12:15 pm - 12:45 pm: Fumiya Sakai - "Hint of a little ingenuity about UI"
+12:45 pm - 1:00pm: Discussion
 
 ---
 
