@@ -2,15 +2,12 @@ autoscale: true
 
 ![inline](logo.png)
 
+**February 2019**
+
 11:00 am - 11:15 am: Introduction
 11:15 am - 11:45 am: Ahmed Bakir - "Technical Writing"
 11:45 am - 12:15 pm: Josh Kaplan - "Code Generation"
 12:15 pm - 1:00pm: Discussion
-
----
-
-# Tokyo iOS Meetup
-## February 2019
 
 ---
 
