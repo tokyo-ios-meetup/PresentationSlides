@@ -47,7 +47,7 @@ April
 
 - After the February meetup, CyberAgent will move to a new building.
 - We are hoping to move with them to their new building, which is still in Shibuya but it will not be possible in March.
-- We will (tentatively) have our March 24th meetup at Cookpad in Ebisu for one month.
+- March iOS Meetup @ Cookpad in Ebisu (just this month!)
 
 ---
 
